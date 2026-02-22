@@ -1,0 +1,8 @@
+flask
+twilio
+google-genai
+fastapi
+uvicorn
+jinja2
+python-multipart
+requests
