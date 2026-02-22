@@ -1,0 +1,7 @@
+social_saver.db
+
+__pycache__/
+*.pyc
+
+.env
+api.env
