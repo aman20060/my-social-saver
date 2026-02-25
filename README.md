@@ -12,4 +12,4 @@ Database: SQLite (Automated schema initialization).
 UI/UX: Bootstrap 5 with a custom "Glassmorphism" aesthetic
 
 Synopsis:
-https://drive.google.com/file/d/1pGk4nURt3165kx0AFJ7nqAMez40l-e0O/view?usp=drive_link
+https://drive.google.com/file/d/1z4YNdETELZk2iFZmNj6maEweAY63M5ZS/view?usp=drivesdk
